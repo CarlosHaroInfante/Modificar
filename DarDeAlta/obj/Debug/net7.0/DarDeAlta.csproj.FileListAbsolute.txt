@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\bin\Debug\net7.0\DarDeAlta.exe
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\bin\Debug\net7.0\DarDeAlta.deps.json
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\bin\Debug\net7.0\DarDeAlta.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\bin\Debug\net7.0\DarDeAlta.dll
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\bin\Debug\net7.0\DarDeAlta.pdb
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.dll
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\refint\DarDeAlta.dll
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.pdb
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\DarDeAlta.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\DarDeAlta\obj\Debug\net7.0\ref\DarDeAlta.dll
